@@ -1,0 +1,6 @@
+/** (position:senior OR position:manager) AND (department:engineering OR department:finance) **/
+Ovo je test poruka mogu je videti seniori ili menadzeri iz inzenjeringa ili finansija
+/** (position:junior OR position:manager) AND department:marketing **/
+Ovo je test poruka mogu je videti seniori ili menadzeri iz marketinga
+/** email:emilijaivko@gmail.com **/
+Ovo je test poruka moze je videti samo korisnik emilijaivko@gmail.com

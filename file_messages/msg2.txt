@@ -1,0 +1,6 @@
+/** (position:manager) AND (department:engineering) **/
+Ovo je test poruka mogu je videti menadzeri iz inzenjeringa
+/** position:senior OR department:marketing **/
+Ovo je test poruka mogu je videti seniori ili sektor marketinga
+/** department:engineering **/
+Ovo je test poruka mogu je videti inzenjeri
